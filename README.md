@@ -4,6 +4,8 @@ engineer@Platform:~$ whoami
 scDisorder
 engineer@Platform:~$ engineer | more
 Hi, I'm Dmitrii aka Disorder or Space Captain Disorder
+* Software engineer
+* Site reliability engineering skills
 * Games & pizza lover
 * Cloud engineering enthusiast driven by passion, curiosity and willingness to learn
 ```
@@ -11,7 +13,7 @@ Hi, I'm Dmitrii aka Disorder or Space Captain Disorder
 ### InfoSec interests  :space_invader:
 ```console
 engineer@Platform:~$ cat engineering_interests
-Clouds, Golang, Kubernetes, Containers, Dart, Unreal Engine
+Golang, Kubernetes, Containers, Dart, Cloud Engineering, Unreal Engine
 ```
 
 ### Currently working on :ghost:
