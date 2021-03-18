@@ -6,7 +6,7 @@ engineer@Platform:~$ engineer | more
 Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 * Software engineer
 * Site reliability engineering skills
-* Games & pizza lover
+* Music, games, football & pizza lover
 * Cloud engineering enthusiast driven by passion, curiosity and willingness to learn
 ```
 
