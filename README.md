@@ -21,8 +21,8 @@ Golang, Kubernetes, Containers, Dart, Cloud Engineering, Unreal Engine
 engineer@Platform:~$ cat founder_at
 * Rovergulf Engineers:
 * https://rovergulf.net
+* https://github.com/rovergulf
 engineer@Platform:~$ cat active_pojects
-* [rovergulf at github](https://github.com/rovergulf)
 * [ngx-slice-kit](https://slice.rovergulf.net)
 * [monkey-api](https://monkey.rovergulf.net) - Coming soon
 * [emailia](https://emailia.io) - Coming soon
