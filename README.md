@@ -16,7 +16,7 @@ engineer@Platform:~$ cat engineering_interests
 Golang, Kubernetes, Containers, Dart, Cloud Engineering, Unreal Engine
 ```
 
-### Currently working on :ghost:
+### Currently working on :rocket:
 ```console
 engineer@Platform:~$ cat founder_at
 * Rovergulf Engineers:
