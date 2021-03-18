@@ -1,4 +1,4 @@
-# Dmitrii Limonov - Dmitrii.
+## scDisorder - Dmitrii Limonov.
 ```console
 engineer@Platform:~$ whoami
 scDisorder
