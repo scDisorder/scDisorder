@@ -10,7 +10,7 @@ Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 * Cloud engineering enthusiast driven by passion, curiosity and willingness to learn
 ```
 
-### InfoSec interests  :space_invader:
+### Engineering interests  :space_invader:
 ```console
 engineer@Platform:~$ cat engineering_interests
 Golang, Kubernetes, Containers, Dart, Cloud Engineering, Unreal Engine
