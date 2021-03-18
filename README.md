@@ -1,16 +1,38 @@
-### Hello there 👋
+# Dmitrii Limonov - Dmitrii.
+```console
+engineer@Platform:~$ whoami
+scDisorder
+engineer@Platform:~$ engineer | more
+Hi, I'm Dmitrii aka Disorder or Space Captain Disorder
+* Games & pizza lover
+* Cloud engineering enthusiast driven by passion, curiosity and willingness to learn
+```
 
-<!--
-**scDisorder/scDisorder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### InfoSec interests  :space_invader:
+```console
+engineer@Platform:~$ cat engineering_interests
+Clouds, Golang, Kubernetes, Containers, Dart, Unreal Engine
+```
 
-Here are some ideas to get you started:
+### Currently working on :ghost:
+```console
+engineer@Platform:~$ cat founder_at
+* Rovergulf Engineers:
+* https://rovergulf.net
+engineer@Platform:~$ cat active_pojects
+* [rovergulf org](https://rovergulf.net)
+* [ngx-slice-kit](https://github.com/rovergulf/ngx-slice-kit)
+* [monkey-api](https://monkey.rovergulf.net) - Coming soon
+* [emailia](https://emailia.io) - Coming soon
+* [inkbe](https://inkbe.com) - Coming soon
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+### Contacts
+* [LinkedIn](https://www.linkedin.com/in/dmitriy-limonov-937912102/)
+* [Twitter](https://twitter.com/rzkmontser)
+* d@rovergulf.net / rovergulf@gmail.com
+
