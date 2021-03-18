@@ -3,7 +3,7 @@
 engineer@Platform:~$ whoami
 scDisorder
 engineer@Platform:~$ engineer | more
-Hi, I'm Dmitrii aka Disorder or Space Captain Disorder
+Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 * Software engineer
 * Site reliability engineering skills
 * Games & pizza lover
