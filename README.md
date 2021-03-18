@@ -36,5 +36,6 @@ engineer@Platform:~$ cat active_pojects
 ### Contacts
 * [LinkedIn](https://www.linkedin.com/in/dmitriy-limonov-937912102/)
 * [Twitter](https://twitter.com/rzkmontser)
-* d@rovergulf.net / rovergulf@gmail.com
+* d@rovergulf.net
+* disorder@inkbe.com
 
