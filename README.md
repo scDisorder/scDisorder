@@ -23,7 +23,7 @@ engineer@Platform:~$ cat founder_at
 * https://rovergulf.net
 engineer@Platform:~$ cat active_pojects
 * [rovergulf at github](https://github.com/rovergulf)
-* [ngx-slice-kit](https://github.com/rovergulf/ngx-slice-kit)
+* [ngx-slice-kit](https://slice.rovergulf.net)
 * [monkey-api](https://monkey.rovergulf.net) - Coming soon
 * [emailia](https://emailia.io) - Coming soon
 * [inkbe](https://inkbe.com) - Coming soon
