@@ -2,7 +2,7 @@
 ```console
 engineer@Platform:~$ whoami
 scDisorder
-engineer@Platform:~$ engineer | more
+engineer@Platform:~$ scDisorder | more
 Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 * Software engineer
 * Site reliability engineering skills
