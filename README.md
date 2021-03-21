@@ -29,6 +29,7 @@ engineer@Platform:~$ cat active_pojects
 * [inkbe](https://inkbe.com) - Coming soon
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scDisorder)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
