@@ -13,7 +13,7 @@ Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 ### Engineering interests  :space_invader:
 ```console
 engineer@Platform:~$ cat engineering_interests
-Golang, Kubernetes, Containers, Dart, Cloud Engineering, Unreal Engine
+Golang, Kubernetes, Containers, Dart, Disturbed systems, Unreal Engine
 ```
 
 ### Currently working on :rocket:
