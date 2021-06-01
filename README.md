@@ -13,7 +13,7 @@ Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 ### Engineering interests  :space_invader:
 ```console
 engineer@Platform:~$ cat engineering_interests
-Golang, Kubernetes, Containers, Dart, Distributed systems, Unreal Engine
+Golang, Kubernetes, Containers, Dart, Distributed systems, Blockchain
 ```
 
 ### Currently working on :rocket:
@@ -24,7 +24,7 @@ engineer@Platform:~$ cat founder_at
 * https://github.com/rovergulf
 engineer@Platform:~$ cat active_pojects
 * [ngx-slice-kit](https://slice.rovergulf.net)
-* [monkey-api](https://monkey.rovergulf.net) - Coming soon
+* [rbn](https://chain.rovergulf.net) - Coming soon
 * [emailia](https://emailia.io) - Coming soon
 * [inkbe](https://inkbe.com) - Coming soon
 ```
