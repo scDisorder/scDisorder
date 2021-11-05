@@ -26,7 +26,7 @@ engineer@Platform:~$ cat founder_at
 engineer@Platform:~$ cat active_pojects
 * [ngx-slice-kit](https://slice.rovergulf.net)
 * [rbn](https://chain.rovergulf.net) - Coming soon
-* [chubbypops](https://chubbypops.com) - Coming soon
+* [chubbypops](https://chubbypops.com)
 * [inkbe](https://inkbe.com) - Coming soon
 ```
 
