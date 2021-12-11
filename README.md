@@ -6,6 +6,7 @@ engineer@Platform:~$ scDisorder | more
 Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 * Software engineer
 * Site reliability engineering skills
+* Ethereum developer
 * Music, games, football, anime & pizza lover
 * Cloud engineering enthusiast driven by passion, curiosity and willingness to learn
 ```
@@ -25,9 +26,10 @@ engineer@Platform:~$ cat founder_at
 * https://github.com/rovergulf-ops
 engineer@Platform:~$ cat active_pojects
 * [ngx-slice-kit](https://slice.rovergulf.net)
-* [rbn](https://chain.rovergulf.net) - Coming soon
-* [chubbypops](https://chubbypops.net)
+* [chubby-pops](https://chubbypops.net)
+* [octopus-squad](https://octopussquad.com)
 * [inkbe](https://inkbe.com) - Coming soon
+* [rovergulf-chain](https://chain.rovergulf.net) - Coming soon
 ```
 
 
