@@ -25,7 +25,6 @@ engineer@Platform:~$ cat founder_at
 * https://github.com/rovergulf
 * https://github.com/rovergulf-ops
 engineer@Platform:~$ cat active_pojects
-* [ngx-slice-kit](https://slice.rovergulf.net)
 * [chubby-pops](https://chubbypops.net)
 * [octopus-squad](https://octopussquad.com)
 * [inkbe](https://inkbe.com) - Coming soon
