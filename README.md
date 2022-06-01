@@ -42,4 +42,4 @@ engineer@Platform:~$ cat active_pojects
 * disorder@inkbe.com
 
 ### GH Stats
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=scDisorder&show_icons=true&theme=github_dark" alt="Stats">
