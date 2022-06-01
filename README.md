@@ -40,6 +40,3 @@ engineer@Platform:~$ cat active_pojects
 * [Twitter](https://twitter.com/rzkmonster)
 * d@rovergulf.net
 * disorder@inkbe.com
-
-### GH Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=scDisorder&show_icons=true&theme=github_dark" alt="Stats">
