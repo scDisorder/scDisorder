@@ -25,8 +25,6 @@ engineer@Platform:~$ cat founder_at
 * https://github.com/rovergulf
 * https://github.com/rovergulf-ops
 engineer@Platform:~$ cat active_pojects
-* [chubby-pops](https://chubbypops.net)
-* [octopus-squad](https://octopussquad.com)
 * [inkbe](https://inkbe.com) - Coming soon
 * [rovergulf-chain](https://chain.rovergulf.net) - Coming soon
 ```
