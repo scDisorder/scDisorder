@@ -19,14 +19,11 @@ Golang, Blockchain, Distributed systems, Kubernetes, Containers
 
 ### Currently working on :rocket:
 ```console
-engineer@Platform:~$ cat founder_at
+engineer@Platform:~$ cat pet_projects
 * Rovergulf Engineers:
 * https://rovergulf.net
 * https://github.com/rovergulf
 * https://github.com/rovergulf-ops
-engineer@Platform:~$ cat active_pojects
-* [inkbe](https://inkbe.com) - Coming soon
-* [rovergulf-chain](https://chain.rovergulf.net) - Coming soon
 ```
 
 
