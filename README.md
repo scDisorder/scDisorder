@@ -31,6 +31,7 @@ engineer@Platform:~$ cat pet_projects
 
 
 ### Contacts
+* [StackShare](https://stackshare.io/scdisorder/main)
 * [LinkedIn](https://www.linkedin.com/in/dmitriy-limonov-937912102/)
 * [Twitter](https://twitter.com/rzkmonster)
 * d@rovergulf.net
