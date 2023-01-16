@@ -35,3 +35,5 @@ engineer@Platform:~$ cat pet_projects
 * [Twitter](https://twitter.com/rzkmonster)
 * d@rovergulf.net
 * disorder@inkbe.com
+
+[![Codewars](https://www.codewars.com/users/scDisorder/badges/micro)](https://www.codewars.com/users/scDisorder)
