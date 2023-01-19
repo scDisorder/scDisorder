@@ -34,8 +34,8 @@ engineer@Platform:~$ cat pet_projects
 * [LinkedIn](https://www.linkedin.com/in/dmitriy-limonov-937912102/)
 * [Twitter](https://twitter.com/rzkmonster)
 * d@rovergulf.net
-* disorder@inkbe.com
-)](https://leetcode.com/scDisorder)
+* d@dragonode.net
+
 
 [![LeetCode user scdisorder](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fscdisorder&logo=leetcode&logoColor=yellow)](https://leetcode.com/scdisorder/)
 [![Codewars](https://www.codewars.com/users/scDisorder/badges/micro)](https://www.codewars.com/users/scDisorder)
