@@ -20,6 +20,7 @@ Golang, Blockchain, Distributed systems, Kubernetes, Containers
 ### Currently working on :rocket:
 ```console
 engineer@Platform:~$ cat pet_projects
+* WIP: https://portfolio-scdisorder.vercel.app
 * https://github.com/dragonode
 * https://github.com/rovergulf
 * https://github.com/rovergulf-ops
