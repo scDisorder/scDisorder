@@ -6,7 +6,6 @@ engineer@Platform:~$ scDisorder | more
 Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 * Software engineer
 * Site reliability engineering skills
-* Ethereum developer
 * Music, games, football, anime & pizza lover
 * Engineering enthusiast driven by passion, curiosity and willingness to learn
 ```
