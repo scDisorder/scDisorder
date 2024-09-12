@@ -25,6 +25,7 @@ engineer@Platform:~$ cat pet_projects
 * https://passwordgenerator-scdisorder.vercel.app
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scDisorder)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
