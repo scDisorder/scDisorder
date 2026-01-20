@@ -6,14 +6,14 @@ engineer@Platform:~$ scDisorder | more
 Hello there! I'm Dmitrii aka Disorder or Space Captain Disorder
 * Software engineer
 * Site reliability engineering skills
-* Music, games, football, anime & pizza lover
-* Engineering enthusiast driven by passion, curiosity and willingness to learn
+* Music, games, football, anime
+* Engineering enthusiast
 ```
 
 ### Engineering interests  :space_invader:
 ```console
 engineer@Platform:~$ cat engineering_interests
-Golang, Blockchain, Distributed systems, Kubernetes, Containers
+Golang, Blockchain, Distributed systems, Kubernetes, Containers, AI
 ```
 
 ### Currently working on :rocket:
@@ -22,7 +22,6 @@ engineer@Platform:~$ cat pet_projects
 * https://github.com/dragonode
 * https://github.com/rovergulf
 * https://github.com/rovergulf-ops
-* https://passwordgenerator-scdisorder.vercel.app
 ```
 
 
@@ -30,7 +29,6 @@ engineer@Platform:~$ cat pet_projects
 
 
 ### Contacts
-* [StackShare](https://stackshare.io/scdisorder/main)
 * [LinkedIn](https://www.linkedin.com/in/dmitriy-limonov-937912102/)
 * [Twitter](https://twitter.com/rzkmonster)
 * d@rovergulf.net
