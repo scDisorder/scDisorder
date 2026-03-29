@@ -24,6 +24,7 @@ engineer@Platform:~$ cat pet_projects
 * https://github.com/rovergulf-ops
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scDisorder)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
